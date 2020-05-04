@@ -16,3 +16,6 @@
 [submodule "userDetails"]
 	path = userDetails
 	url = https://github.com/sohelsutriya/userDetails
+[submodule "AngularUI"]
+	path = AngularUI
+	url = https://github.com/sohelsutriya/AngularUI
