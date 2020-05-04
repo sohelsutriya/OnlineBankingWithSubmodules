@@ -13,3 +13,6 @@
 [submodule "transactions"]
 	path = transactions
 	url = https://github.com/sohelsutriya/transactions
+[submodule "userDetails"]
+	path = userDetails
+	url = https://github.com/sohelsutriya/userDetails
