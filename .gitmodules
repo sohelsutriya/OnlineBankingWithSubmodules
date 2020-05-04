@@ -1,3 +1,6 @@
 [submodule "account-details"]
 	path = account-details
 	url = https://github.com/sohelsutriya/account-details
+[submodule "fund-transfer"]
+	path = fund-transfer
+	url = https://github.com/sohelsutriya/fund-transfer
