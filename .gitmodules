@@ -1,0 +1,3 @@
+[submodule "account-details"]
+	path = account-details
+	url = https://github.com/sohelsutriya/account-details
