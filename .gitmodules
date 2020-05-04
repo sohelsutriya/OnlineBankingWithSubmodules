@@ -7,3 +7,6 @@
 [submodule "login"]
 	path = login
 	url = https://github.com/sohelsutriya/login
+[submodule "services"]
+	path = services
+	url = https://github.com/sohelsutriya/services
