@@ -19,3 +19,6 @@
 [submodule "AngularUI"]
 	path = AngularUI
 	url = https://github.com/sohelsutriya/AngularUI
+[submodule "netflix-eureka"]
+	path = netflix-eureka
+	url = https://github.com/sohelsutriya/netflix-eureka
