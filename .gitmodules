@@ -22,3 +22,6 @@
 [submodule "netflix-eureka"]
 	path = netflix-eureka
 	url = https://github.com/sohelsutriya/netflix-eureka
+[submodule "zuul"]
+	path = zuul
+	url = https://github.com/sohelsutriya/zuul.git
